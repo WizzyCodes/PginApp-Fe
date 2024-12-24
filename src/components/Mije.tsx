@@ -13,8 +13,8 @@ const mije = () => {
           />
         </div>
         <div className="w-[300px] h-full  flex justify-end items-center ">
-          <div className="w-[250px] h-[50px]  flex gap-1 items-center justify-end">
-            <p className="uppercase text-[16px] font-semibold text-[#C0C0C0]  ">
+          <div className="w-[260px] h-[50px]  flex gap-1 items-center justify-end">
+            <p className="uppercase text-[14px] font-semibold text-[#C0C0C0]  font-Outfit ">
               site language: pidgin
             </p>
             <RiArrowDropDownLine className="text-[30px] text-[#C0C0C0] font-[din-round]" />

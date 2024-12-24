@@ -3,7 +3,13 @@
 @tailwind utilities;
 
 :root {
-  font-family: Poppins, Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  font-family: Outfit, Poppins, Inter, system-ui, Avenir, Helvetica, Arial,
+    sans-serif;
   line-height: 1.5;
   font-weight: 400;
+}
+
+@font-face {
+  font-family: "Outfit";
+  src: url(C:/Users/PC/Desktop/PginApp-Fe/src/fonts/Outfit-Medium.ttf);
 }

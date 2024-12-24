@@ -1,4 +1,4 @@
-import Mije from "./components/mije";
+import Mije from "./components/Mije";
 
 const App = () => {
   return (
