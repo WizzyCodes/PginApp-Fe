@@ -1,7 +1,11 @@
+import Mije from "./components/mije";
+
 const App = () => {
   return (
     <div>
-      <h1>Hello World</h1>
+      <h1>
+        <Mije />
+      </h1>
     </div>
   );
 };
