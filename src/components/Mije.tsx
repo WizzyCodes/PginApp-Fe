@@ -23,6 +23,27 @@ const mije = () => {
           </div>
         </div>
       </div>
+      <div className="w-[100%] h-[550px]  flex justify-center items-end">
+        <div className="w-[75%] h-[70%] ml-[30px] flex">
+          <div className="w-[50%] h-[100%] ]">
+            <img
+              className="w-full h-full"
+              src="https://d35aaqx5ub95lt.cloudfront.net/images/splash/lottie/08ec8d0260c55c054e1b97bcbc96ea0f.svg"
+              alt=""
+            />
+          </div>
+          <div className="w-[50%] h-[100%] flex justify-center  flex-col">
+            <div className="w-[100%] h-[280px]  text-center">
+              <h2 className="text-[30px] text-center text-[#4B4B4B] font-semibold">
+                The free, fun, and effective way to learn a language!
+              </h2>
+              <button className="px-[100px] py-[10px] mt-[30px] text-white bg-[#58CC02] rounded-md">
+                Get Started
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
     </div>
   );
 };
