@@ -6,9 +6,8 @@ const App = () => {
   return (
     <div>
       <Mije />
-      <Wisdom />
-
       <Ibrahim />
+      <Wisdom />
     </div>
   );
 };
