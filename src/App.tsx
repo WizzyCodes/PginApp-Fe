@@ -1,3 +1,4 @@
+import Ibrahim from "./components/Ibrahim";
 import Mije from "./components/Mije";
 
 const App = () => {
@@ -6,6 +7,9 @@ const App = () => {
       <h1>
         <Mije />
       </h1>
+      <div>
+        <Ibrahim />
+      </div>
     </div>
   );
 };
