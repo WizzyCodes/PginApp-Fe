@@ -11,5 +11,5 @@
 
 @font-face {
   font-family: "Outfit";
-  src: url(../src/fonts/Outfit-Medium.ttf);
+  src: url("../src/fonts/Outfit-Medium.ttf");
 }
