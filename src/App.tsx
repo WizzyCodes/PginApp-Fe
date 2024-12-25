@@ -1,3 +1,4 @@
+import Ibrahim from "./components/Ibrahim";
 import Mije from "./components/Mije";
 import Wisdom from "./components/Wisdom";
 
@@ -6,6 +7,8 @@ const App = () => {
     <div>
       <Mije />
       <Wisdom />
+
+      <Ibrahim />
     </div>
   );
 };
