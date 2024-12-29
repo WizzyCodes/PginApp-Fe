@@ -3,8 +3,8 @@ import { RiArrowDropDownLine } from "react-icons/ri";
 
 const mije = () => {
   return (
-    <div className="font-Outfit">
-      <div className="w-full h-[4rem] flex justify-center items-center fixed shadow-lg bg-[white]">
+    <div className="font-Outfit ">
+      <div className="w-full h-[4rem] flex justify-center items-center fixed shadow-lg bg-[white] z-50">
         <div className="w-[80%] h-full  flex justify-between">
           <div className="w-[300px] h-full flex items-center justify-start">
             <img
